@@ -1,0 +1,11 @@
+{
+  "name": "forgeby",
+  "description": "Forgeby as a second door in Claude. The same tools, memory, approval cards and rules as the app. A person sends.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Forgeby"
+  },
+  "homepage": "https://forgeby.com/mcp",
+  "repository": "https://github.com/jacobahmid-stack/forgeby-claude-plugin",
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "forgeby",
+  "owner": {
+    "name": "Forgeby"
+  },
+  "metadata": {
+    "description": "Forgeby for Claude: seller skills on the Forgeby connector. Writes return an approval link; a person sends."
+  },
+  "plugins": [
+    {
+      "name": "forgeby",
+      "source": "./",
+      "description": "Eleven seller skills on the Forgeby MCP server. Reads memory first. Writes return an approval link. A person sends."
+    }
+  ]
+}
